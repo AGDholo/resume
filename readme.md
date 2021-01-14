@@ -1,6 +1,8 @@
 # Looking to work remotely (part-time)
 
-## Job Objective: Front-end projects such as Vue or Vuetify.
+## Job Objective:   
+* Front-end projects such as Vue or Vuetify.
+* PHP(Focus on laravel etc.)
 
 Language.
 * Can read and write fluently in English and may have difficulty speaking.
@@ -11,6 +13,7 @@ Language.
 * Member of the [Vuetify](https://github.com/vuetifyjs/vuetify) team, Vue's most popular UI library.
 * Member of the [hedgehog-lab](https://github.com/lidangzzz/hedgehog-lab) core team, providing a scientific computing environment for browsers.
 * [vercel-php](https://github.com/juicyfx/vercel-php) contributor, providing Laravel/Lumen framework support for Vercel PHP Runtime.
+* [SteamHub](https://github.com/InGaming) Full-stack developer, single person leading the project development, technology stack (PHP, JavaScript, NodeJS), architecture including RESTFul, crawler, and complete front-end (Vue, Nuxt, SSR).
 
 ## Books(Chinese version)
 
@@ -28,4 +31,4 @@ Language.
 Find the author by
 
 * Github - https://github.com/AGDholo
-* E-mail - agdholo@gmail.com
+* E-mail - agdholo@outlook.com
