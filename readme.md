@@ -1,4 +1,4 @@
-# Looking to work remotely (part-time)
+# Hi here!
 
 ## Job Objective:   
 * Front-end projects such as Vue or Vuetify.
