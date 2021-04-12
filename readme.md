@@ -5,8 +5,8 @@
 * PHP(Focus on laravel etc.)
 
 Language.
-* Can read and write fluently in English and may have difficulty speaking.
-* Chinese, barrier-free communication in Chinese
+* Can read and write fluently in English.
+* Chinese, barrier-free communication in Chinese.
 
 ## Project experience
 
