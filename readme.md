@@ -24,12 +24,14 @@ Language.
 ## Miscellaneous.
 
 * Founder of [HeroUI](heroui.net)
-* Vuetify documentation translator (en-sch)
-* Material-UI documentation translator (en-sch)
+* Vuetify MVP
+* Material-UI [Community Contributors](https://next.material-ui.com/zh/branding/about/)
+* Vuetify full documentation translator (en-sch)
+* Material-UI full documentation translator & Document translation manager (en-sch)
 
 ## Contact details
 
-Find the author by
+Find me by
 
 * Github - https://github.com/AGDholo
 * E-mail - agdholo@outlook.com
