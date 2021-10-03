@@ -1,9 +1,5 @@
 # Hi here!
 
-## Job Objective:   
-* Front-end projects such as Vue or Vuetify.
-* PHP(Focus on laravel etc.)
-
 Language.
 * Can read and write fluently in English.
 * Chinese, barrier-free communication in Chinese.
