@@ -15,7 +15,6 @@ Language.
 ## Books(Chinese version)
 
 * [Vuetify2 Tips](https://heroui.net/docs/vuetify2-tricks/introduction) Author
-* [ThinkPHP 5.1 Hands-on Development for Beginners](https://heroui.net/docs/thinkphp5.1-primer/readme) Author
 
 ## Miscellaneous.
 
