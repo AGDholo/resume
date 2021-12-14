@@ -20,7 +20,7 @@ Language.
 
 * Founder of [HeroUI](heroui.net)
 * Vuetify MVP
-* Material-UI [Community Contributors](https://next.material-ui.com/zh/branding/about/)
+* Material-UI [Community Contributors](https://mui.com/about/)
 * Vuetify full documentation translator (en-sch)
 * Material-UI full documentation translator & Document translation manager (en-sch)
 
