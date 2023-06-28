@@ -1,17 +1,6 @@
-# Hi here!
+## Recently
 
-Language.
-* Can read and write fluently in English.
-* Chinese, barrier-free communication in Chinese.
-
-## 2023 update:  
-### For tech:  
-I guess ASP .NET and C# is best now, it is very suitable for the development of small and medium-sized teams, and the business level is far beyond golang or other language and platform.  
-
-MUI is the great UI library for React, mui/joy looks awesome even the components under the development.  
-
-### For buisness:
-Fiapp is about to set up a proprietary fund and may attempt a first round of public financing and conversion to hedge funds next year.
+* Singularity Robotics: CEO & co-founder, I led the development of the entire quantitative strategy system for Singularity Robotics which is fiapp professional hedge fund version. I was responsible for uncovering all factors, position sizing, drawdown optimization, and other key concepts. Additionally, I personally developed the quantitative trading engine using C# ASP.NET, achieving 100% unit test coverage and 100% comment coverage, resulting in a highly available single-machine engine.
 
 ## Project experience
 
