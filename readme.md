@@ -4,7 +4,7 @@
 
 ## Project experience
 
-* [Fiapp](https://fiapp.pro/) CEO & co-founder, A quantitative financial trading software, to provide users with intelligent real-time trading signals. We use python pandas to calculate data, and asp .net 6 to provide the signal backend.
+* [Fiapp Base On Singularity Robotics](https://fiapp.pro/) CEO & co-founder, A quantitative financial trading software, to provide users with intelligent real-time trading signals. We use python pandas to calculate data, and asp .net 6 to provide the signal backend.
 * [Darc](https://github.com/project-darc/darc) co-founder, Darc is a decentralized autonomous regulated corporation that leverages blockchain technology to offer transparency, efficiency, and compliance for businesses operating in a trustless environment. I write a complete set of user experience solutions such as dapp programs for darc.  
 * [hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) co-founder & CTO, Set up complete front and back end business functions for HLAB(JavaScript, TypeScript, NodeJS, AWS & github actions devops), this project providing a scientific computing environment for browsers.
 * [SteamHub](https://github.com/InGaming) Founded in 2015, a big game player community, contains the price of steam tracing, community interaction platform for data analysis and so on. Full-stack developer, single person leading the project development, technology stack (PHP, JavaScript, NodeJS, Python), architecture including RESTFul, Data crawler, and complete front-end (Vue, Nuxt, SSR).
