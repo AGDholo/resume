@@ -1,6 +1,6 @@
 ## Recently
 
-* Singularity Robotics: CEO & co-founder, I led the development of the entire quantitative strategy system for Singularity Robotics which is fiapp professional hedge fund version. I was responsible for uncovering all factors, position sizing, drawdown optimization, and other key concepts. Additionally, I personally developed the quantitative trading engine using C# ASP.NET, achieving 100% unit test coverage and 100% comment coverage, resulting in a highly available single-machine engine.
+* [Singularity Robotics](https://singularity-robotics.com/): CEO & co-founder, I led the development of the entire quantitative strategy system for Singularity Robotics which is fiapp professional hedge fund version. I was responsible for uncovering all factors, position sizing, drawdown optimization, and other key concepts. Additionally, I personally developed the quantitative trading engine using C# ASP.NET, achieving 100% unit test coverage and 100% comment coverage, resulting in a highly available single-machine engine.
 
 ## Project experience
 
