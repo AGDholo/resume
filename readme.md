@@ -8,7 +8,7 @@
   
 ## Project experience
 
-* Singularity Robotics | Co-founder
+* Singularity Robotics Pte, Ltd | Co-founder
 Led the development of a quantitative trading system, covering factor research, position sizing, risk management, and drawdown optimization. Built a high-availability trading engine.
 
 * [Fiapp Base On Singularity Robotics](https://fiapp.pro/) CEO & co-founder, A quantitative financial trading software, to provide users with intelligent real-time trading signals. 
