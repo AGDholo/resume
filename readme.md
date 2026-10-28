@@ -1,6 +1,6 @@
 ## Recently
 
-* **[AnyUni, Inc. — Luni](https://luni.now/)** | Founder & CEO | 2025–Present
+* **[AnyUni, Inc. — Luni](https://luni.now/)** | Founder | 2025–Present
 
   Founded AnyUni, Inc. and built **Luni**, an AI-native workspace that turns conversations into editable, shareable work. I lead product development, system architecture, and engineering, bringing AI experts, collaborative documents, and project workflows together into a unified platform.
 
